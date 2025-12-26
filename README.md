@@ -17,10 +17,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔧 Backend-focused **Odoo 19 Developer**
+- 🔧 Backend-focused **Odoo Developer**
 - 🐍 Strong in **Python & ORM**
 - 📊 Experience with **Accounting & Business Modules** **HRM Module**
-- 🎯 Goal: **Full-Stack + Odoo Technical Consultant**
+- 🎯 Goal: **Full-Stack + Software Engineer**
 
 ---
 
