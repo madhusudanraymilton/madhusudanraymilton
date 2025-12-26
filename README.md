@@ -1,131 +1,104 @@
-👋 Hi, I’m Madhusudan Ray
+<h1 align="center">
+  Hi 👋, I'm Madhusudan Ray
+</h1>
 
-🚀 Odoo Backend Developer | Python Enthusiast | Full-Stack Learner
+<h3 align="center">
+  🚀 Odoo Backend Developer | Python | Full-Stack Learner
+</h3>
 
-I am a backend-focused developer with hands-on experience in Odoo 19, Python, and ORM-based application development. I actively build real-world modules (Library Management System, Automobile Module, Accounting workflows) and continuously upskill toward full-stack development using MERN.
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+19+Backend+Developer;Python+%26+ORM+Specialist;Building+Real+World+Modules;Learning+MERN+Stack+Step+by+Step"
+    alt="Typing SVG"
+  />
+</p>
 
-I believe in learning by building, understanding systems deeply, and writing maintainable, scalable code.
+---
 
-🧑‍💻 What I Do
+### 🧑‍💻 About Me
 
-🔧 Odoo 19 Backend Development
+- 🔧 Backend-focused **Odoo 19 Developer**
+- 🐍 Strong in **Python & ORM**
+- 📊 Experience with **Accounting & Business Modules**
+- 🌱 Currently learning **MERN Stack**
+- 🎯 Goal: **Full-Stack + Odoo Technical Consultant**
 
-Custom modules, models, ORM, views (XML)
+---
 
-Wizards (popups), dashboards (OWL)
+### 🛠️ Tech Stack
 
-Accounting & finance module understanding
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,postgres,html,css,git,github,vscode" />
+</p>
 
-🐍 Python Development
+---
 
-Advanced Python concepts
+### 📂 Featured Projects
 
-ORM & database design
+🚀 **Library Management System (Odoo 19)**  
+- Custom OWL Dashboard  
+- ORM-based backend  
+- Wizards & statistics  
+- XML views & actions  
 
-🌐 Web Development
+🚗 **Automobile Module (Odoo)**  
+- Vehicle lifecycle management  
+- Popup wizards  
+- Clean model-view integration  
 
-HTML, CSS, JavaScript
+🌐 **Personal Portfolio Website**  
+- HTML, CSS, JavaScript  
+- MERN upgrade planned  
 
-Learning MERN Stack (MongoDB, Express, React, Node.js)
+---
 
-🧠 Productivity & Growth
+### 🌱 Currently Learning
 
-Time management techniques (Pomodoro)
+- Advanced **Odoo ORM & Accounting**
+- **OWL Framework** for dashboards
+- **MERN Stack** (MongoDB, Express, React, Node)
+- Backend system design & scalability
 
-Communication & spoken English practice
+---
 
-🛠️ Tech Stack
+### 📊 GitHub Stats
 
-Backend
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadhusudanRay&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MadhusudanRay&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
-Python
+---
 
-Odoo 19
+### 📈 Most Used Languages
 
-PostgreSQL
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhusudanRay&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-ORM (Odoo ORM)
+---
 
-Frontend
+### 🏆 GitHub Trophies
 
-HTML5
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MadhusudanRay&theme=tokyonight&no-frame=true&row=1"/>
+</p>
 
-CSS3
+---
 
-JavaScript
+### 📫 Connect With Me
 
-React (learning)
+<p align="center">
+  <a href="https://github.com/MadhusudanRay">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-Full Stack (Learning)
+---
 
-MongoDB
-
-Express.js
-
-React
-
-Node.js
-
-Tools
-
-Git & GitHub
-
-VS Code
-
-Linux / Windows
-
-Postman
-
-📂 Featured Projects
-
-🔹 Library Management System (Odoo 19)
-
-Custom dashboard with OWL
-
-Book, member, issue/return logic
-
-Wizards & statistics
-
-ORM-driven backend design
-
-🔹 Automobile Module (Odoo)
-
-Vehicle records
-
-Wizard-based operations
-
-Clean model-view integration
-
-🔹 Personal Portfolio Website
-
-HTML, CSS, JavaScript
-
-Planned MERN stack upgrade
-
-🌱 Currently Learning
-
-Advanced Odoo ORM & Accounting Integration
-
-OWL Framework (Dashboards & UI logic)
-
-MERN Stack (step-by-step, project-based)
-
-Database & backend architecture best practices
-
-🎯 Goals
-
-Become a strong Odoo Technical Consultant
-
-Master backend system design
-
-Transition into a full-stack developer
-
-Build production-grade applications
-
-📫 Connect With Me
-
-💼 GitHub: https://github.com/your-username
-
-📧 Email: Add your professional email
-
-🌐 Portfolio: Coming soon (MERN)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
