@@ -8,7 +8,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+19+Backend+Developer;Python+%26+ORM+Specialist;Building+Real+World+Modules;Learning+MERN+Stack+Step+by+Step"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+19+Backend+Developer;Python+%26+ORM+Specialist;Building+Real+World+Modules;"
     alt="Typing SVG"
   />
 </p>
