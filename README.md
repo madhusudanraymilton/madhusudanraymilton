@@ -19,8 +19,7 @@
 
 - 🔧 Backend-focused **Odoo 19 Developer**
 - 🐍 Strong in **Python & ORM**
-- 📊 Experience with **Accounting & Business Modules**
-- 🌱 Currently learning **MERN Stack**
+- 📊 Experience with **Accounting & Business Modules** **HRM Module**
 - 🎯 Goal: **Full-Stack + Odoo Technical Consultant**
 
 ---
@@ -41,11 +40,6 @@
 - Wizards & statistics  
 - XML views & actions  
 
-🚗 **Automobile Module (Odoo)**  
-- Vehicle lifecycle management  
-- Popup wizards  
-- Clean model-view integration  
-
 🌐 **Personal Portfolio Website**  
 - HTML, CSS, JavaScript  
 - MERN upgrade planned  
@@ -56,7 +50,6 @@
 
 - Advanced **Odoo ORM & Accounting**
 - **OWL Framework** for dashboards
-- **MERN Stack** (MongoDB, Express, React, Node)
 - Backend system design & scalability
 
 ---
@@ -78,24 +71,20 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MadhusudanRay&theme=tokyonight&no-frame=true&row=1"/>
-</p>
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/MadhusudanRay">
+  <a href="https://github.com/madhusudanraymilton">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="https://www.linkedin.com/in/madhusudanraymilton/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:madhusudanraymilton@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
