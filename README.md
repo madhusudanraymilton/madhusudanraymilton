@@ -1,30 +1,30 @@
 <h1 align="center">
-  Hi 👋, I'm Madhusudan Ray
+  Madhusudan Ray
 </h1>
 
 <h3 align="center">
-  🚀 Odoo Backend Developer | Python | Full-Stack Learner
+  Odoo Backend Developer | Python Specialist | Full-Stack Engineering Learner
 </h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+19+Backend+Developer;Python+%26+ORM+Specialist;Building+Real+World+Modules;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+19+Backend+Developer;Python+and+ORM+Specialist;Building+Scalable+Business+Solutions;"
     alt="Typing SVG"
   />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 Professional Profile
 
-- 🔧 Backend-focused **Odoo Developer**
-- 🐍 Strong in **Python & ORM**
-- 📊 Experience with **Accounting & Business Modules** **HRM Module**
-- 🎯 Goal: **Full-Stack + Software Engineer**
+- Backend-focused **Odoo Developer** with strong expertise in business application development  
+- Proficient in **Python** and **Odoo ORM** for building scalable, maintainable systems  
+- Hands-on experience with **Accounting, HRM, and Business Process Automation**  
+- Career objective: Evolve into a **Full-Stack Software Engineer** with strong backend architecture skills  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,postgres,html,css,git,github,vscode" />
@@ -32,29 +32,29 @@
 
 ---
 
-### 📂 Featured Projects
+### 📁 Featured Projects
 
 🚀 **Library Management System (Odoo 19)**  
-- Custom OWL Dashboard  
-- ORM-based backend  
-- Wizards & statistics  
-- XML views & actions  
+- Custom dashboards using OWL framework  
+- ORM-driven backend architecture  
+- Wizards for streamlined workflows  
+- XML-based views, actions, and reporting  
 
 🌐 **Personal Portfolio Website**  
-- HTML, CSS, JavaScript  
-- MERN upgrade planned  
+- Built using HTML, CSS, and JavaScript  
+- Planned upgrade to a full **MERN Stack** application  
 
 ---
 
-### 🌱 Currently Learning
+### 📚 Current Focus
 
-- Advanced **Odoo ORM & Accounting**
-- **OWL Framework** for dashboards
-- Backend system design & scalability
+- Advanced **Odoo ORM** and **Accounting Module** customization  
+- **OWL Framework** for dynamic dashboards and UI enhancements  
+- Backend system design, performance optimization, and scalability  
 
 ---
 
-### 📫 Connect With Me
+### 📬 Professional Links
 
 <p align="center">
   <a href="https://github.com/madhusudanraymilton">
@@ -67,7 +67,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
 
 ---
 
