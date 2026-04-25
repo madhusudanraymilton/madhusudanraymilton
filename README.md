@@ -38,7 +38,21 @@
 - Custom dashboards using OWL framework  
 - ORM-driven backend architecture  
 - Wizards for streamlined workflows  
-- XML-based views, actions, and reporting  
+- XML-based views, actions, and reporting
+
+#### 🚀 Asset Management System (Odoo 19)
+🔗 GitHub: https://github.com/your-repo-link
+
+**Overview:**  
+Enterprise-level asset lifecycle management system integrated with accounting workflows.
+
+**Key Features:**
+- Full lifecycle management:  
+  **Asset Creation → Allocation → Depreciation → Disposal**
+- Automated **depreciation calculation** (linear method)
+- Real-time **accounting integration** (journal entries)
+- Asset categorization, location tracking, ownership mapping
+- Role-based **access control and security rules**
 
 🌐 **Personal Portfolio Website**  
 - Built using HTML, CSS, and JavaScript  
