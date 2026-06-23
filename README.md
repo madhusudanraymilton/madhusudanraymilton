@@ -41,7 +41,7 @@
 - XML-based views, actions, and reporting
 
 #### 🚀 Asset Management System (Odoo 19)
-🔗 GitHub: https://github.com/your-repo-link
+🔗 GitHub: https://github.com/madhusudanraymilton
 
 **Overview:**  
 Enterprise-level asset lifecycle management system integrated with accounting workflows.
