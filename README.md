@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Odoo Developer | Python Specialist | Full-Stack Engineering Learner
+  Odoo Developer | Python Specialist | DevOps
 </h3>
 
 <p align="center">
