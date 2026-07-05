@@ -3,12 +3,12 @@
 </h1>
 
 <h3 align="center">
-  Odoo Backend Developer | Python Specialist | Full-Stack Engineering Learner
+  Odoo Developer | Python Specialist | Full-Stack Engineering Learner
 </h3>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+19+Backend+Developer;Python+and+ORM+Specialist;Building+Scalable+Business+Solutions;"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Odoo+Developer;Python+and+ORM+Specialist;Building+Scalable+Business+Solutions;"
     alt="Typing SVG"
   />
 </p>
